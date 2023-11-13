@@ -12,10 +12,6 @@ After the impact Hurricane Ida had on the United States' east coast, I thought i
 * [AWS SES](https://aws.amazon.com/ses/)
 * [OpenWeatherMap API](https://openweathermap.org/api)
 
-## Example
-
-<img src="./media/2021_09_13_weather_emails.jpg" alt="Weather email example" width="350px" />
-
 ## Setup
 
 **AWS**
